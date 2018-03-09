@@ -1,4 +1,4 @@
-POM文件详解
+application.properties详解
 =
 * 配置jpa
   * 其中有一个重要的配置spring.jpa.properties.hibernate.hbm2ddl.auto=  他决定了代码对数据库表的态度
